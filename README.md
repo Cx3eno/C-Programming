@@ -18,3 +18,5 @@ And some programs like:
 6. multiplication tables
 
 etc.
+
+Note: This repository will be updated on a timely basis.
