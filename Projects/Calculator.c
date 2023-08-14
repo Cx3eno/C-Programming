@@ -1,4 +1,4 @@
-/* Sample calculator in C*/
+/* This is a sample calculator in C*/
 
 // #include <stdio.h>
 
