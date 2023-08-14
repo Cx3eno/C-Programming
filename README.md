@@ -1,7 +1,7 @@
 # C-Programming
 
-A curated list of contrast c programs which I practice oftenly. The list goes on ranging from the very basics to quite advanced levels of programming in c language.
-There are several different programs with exercises and practices which I worked on.
+A curated list of contrast c programs which I practice oftenly. The list goes on ranging from the very basics to quite advanced levels of programming in c language. 
+There are several different programs with exercises and practices which I worked on. Also, there is a c language note which I personally made during my journey in c.
 The following are the list of topics which I worked on:
 1. arrays
 2. recursion
